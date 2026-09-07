@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: blue;
+}
